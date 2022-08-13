@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0T3eEYy3Rbzm4E9CyhnwQAxCCF2/5P7w1YNoc6II26XX7HGW0nY60SQTSJ+fqBWOtfgE12VUKvGZeWqcUiANdQ==",
+  "success": true,
+  "projectFilePath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\EndPoint.Site\\EndPoint.Site.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.behroozi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
