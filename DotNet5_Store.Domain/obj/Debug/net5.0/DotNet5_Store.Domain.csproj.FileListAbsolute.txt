@@ -1,0 +1,12 @@
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store.Domain\bin\Debug\net5.0\DotNet5_Store.Domain.deps.json
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store.Domain\bin\Debug\net5.0\DotNet5_Store.Domain.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store.Domain\bin\Debug\net5.0\ref\DotNet5_Store.Domain.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store.Domain\bin\Debug\net5.0\DotNet5_Store.Domain.pdb
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store.Domain\obj\Debug\net5.0\DotNet5_Store.Domain.csproj.AssemblyReference.cache
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store.Domain\obj\Debug\net5.0\DotNet5_Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store.Domain\obj\Debug\net5.0\DotNet5_Store.Domain.AssemblyInfoInputs.cache
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store.Domain\obj\Debug\net5.0\DotNet5_Store.Domain.AssemblyInfo.cs
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store.Domain\obj\Debug\net5.0\DotNet5_Store.Domain.csproj.CoreCompileInputs.cache
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store.Domain\obj\Debug\net5.0\DotNet5_Store.Domain.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store.Domain\obj\Debug\net5.0\ref\DotNet5_Store.Domain.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store.Domain\obj\Debug\net5.0\DotNet5_Store.Domain.pdb
