@@ -1,0 +1,17 @@
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\bin\Debug\net5.0\DotNet5_Store_Application.deps.json
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\bin\Debug\net5.0\DotNet5_Store_Application.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\bin\Debug\net5.0\ref\DotNet5_Store_Application.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\bin\Debug\net5.0\DotNet5_Store_Application.pdb
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\bin\Debug\net5.0\DotNet5_Store.Domain.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\bin\Debug\net5.0\DotNet5_Store.Domain.pdb
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\obj\Debug\net5.0\DotNet5_Store_Application.csproj.AssemblyReference.cache
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\obj\Debug\net5.0\DotNet5_Store_Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\obj\Debug\net5.0\DotNet5_Store_Application.AssemblyInfoInputs.cache
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\obj\Debug\net5.0\DotNet5_Store_Application.AssemblyInfo.cs
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\obj\Debug\net5.0\DotNet5_Store_Application.csproj.CoreCompileInputs.cache
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\obj\Debug\net5.0\DotNet5_Store_Application.csproj.CopyComplete
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\obj\Debug\net5.0\DotNet5_Store_Application.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\obj\Debug\net5.0\ref\DotNet5_Store_Application.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\obj\Debug\net5.0\DotNet5_Store_Application.pdb
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\bin\Debug\net5.0\DotNet5_Store_Common.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Application\bin\Debug\net5.0\DotNet5_Store_Common.pdb

@@ -4,14 +4,14 @@
     "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\EndPoint.Site\\EndPoint.Site.csproj": {}
   },
   "projects": {
-    "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\EndPoint.Site\\EndPoint.Site.csproj": {
+    "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store.Domain\\DotNet5_Store.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\EndPoint.Site\\EndPoint.Site.csproj",
-        "projectName": "EndPoint.Site",
-        "projectPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\EndPoint.Site\\EndPoint.Site.csproj",
+        "projectUniqueName": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store.Domain\\DotNet5_Store.Domain.csproj",
+        "projectName": "DotNet5_Store.Domain",
+        "projectPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store.Domain\\DotNet5_Store.Domain.csproj",
         "packagesPath": "C:\\Users\\m.behroozi\\.nuget\\packages\\",
-        "outputPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\EndPoint.Site\\obj\\",
+        "outputPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -45,7 +45,308 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Application\\DotNet5_Store_Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Application\\DotNet5_Store_Application.csproj",
+        "projectName": "DotNet5_Store_Application",
+        "projectPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Application\\DotNet5_Store_Application.csproj",
+        "packagesPath": "C:\\Users\\m.behroozi\\.nuget\\packages\\",
+        "outputPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m.behroozi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.nomatec.net/nuget": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store.Domain\\DotNet5_Store.Domain.csproj": {
+                "projectPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store.Domain\\DotNet5_Store.Domain.csproj"
+              },
+              "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Common\\DotNet5_Store_Common.csproj": {
+                "projectPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Common\\DotNet5_Store_Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Common\\DotNet5_Store_Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Common\\DotNet5_Store_Common.csproj",
+        "projectName": "DotNet5_Store_Common",
+        "projectPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Common\\DotNet5_Store_Common.csproj",
+        "packagesPath": "C:\\Users\\m.behroozi\\.nuget\\packages\\",
+        "outputPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m.behroozi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.nomatec.net/nuget": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Persistance\\DotNet5_Store_Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Persistance\\DotNet5_Store_Persistance.csproj",
+        "projectName": "DotNet5_Store_Persistance",
+        "projectPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Persistance\\DotNet5_Store_Persistance.csproj",
+        "packagesPath": "C:\\Users\\m.behroozi\\.nuget\\packages\\",
+        "outputPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m.behroozi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.nomatec.net/nuget": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store.Domain\\DotNet5_Store.Domain.csproj": {
+                "projectPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store.Domain\\DotNet5_Store.Domain.csproj"
+              },
+              "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Application\\DotNet5_Store_Application.csproj": {
+                "projectPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Application\\DotNet5_Store_Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\EndPoint.Site\\EndPoint.Site.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\EndPoint.Site\\EndPoint.Site.csproj",
+        "projectName": "EndPoint.Site",
+        "projectPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\EndPoint.Site\\EndPoint.Site.csproj",
+        "packagesPath": "C:\\Users\\m.behroozi\\.nuget\\packages\\",
+        "outputPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\EndPoint.Site\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m.behroozi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.nomatec.net/nuget": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Application\\DotNet5_Store_Application.csproj": {
+                "projectPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Application\\DotNet5_Store_Application.csproj"
+              },
+              "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Persistance\\DotNet5_Store_Persistance.csproj": {
+                "projectPath": "D:\\Test Projects\\.Net 5\\Bug\\DotNet5_Store\\DotNet5_Store_Persistance\\DotNet5_Store_Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.2, )"

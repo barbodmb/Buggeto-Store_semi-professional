@@ -1,0 +1,12 @@
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Common\bin\Debug\net5.0\DotNet5_Store_Common.deps.json
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Common\bin\Debug\net5.0\DotNet5_Store_Common.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Common\bin\Debug\net5.0\ref\DotNet5_Store_Common.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Common\bin\Debug\net5.0\DotNet5_Store_Common.pdb
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Common\obj\Debug\net5.0\DotNet5_Store_Common.csproj.AssemblyReference.cache
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Common\obj\Debug\net5.0\DotNet5_Store_Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Common\obj\Debug\net5.0\DotNet5_Store_Common.AssemblyInfoInputs.cache
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Common\obj\Debug\net5.0\DotNet5_Store_Common.AssemblyInfo.cs
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Common\obj\Debug\net5.0\DotNet5_Store_Common.csproj.CoreCompileInputs.cache
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Common\obj\Debug\net5.0\DotNet5_Store_Common.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Common\obj\Debug\net5.0\ref\DotNet5_Store_Common.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Common\obj\Debug\net5.0\DotNet5_Store_Common.pdb

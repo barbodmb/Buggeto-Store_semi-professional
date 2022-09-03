@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "ثبت نام کاربر جدید";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<section class="basic-elements">
+	<div class="row">
+		<div class="col-sm-12">
+			<h2 class="content-header">فرم ثبت نام کاربر جدید</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<div class="card">
+				<div class="card-header">
+					<div class="card-title-wrap bar-success">
+						<h4 class="card-title mb-0">ورودی متن</h4>
+					</div>
+				</div>
+				<div class="card-body">
+					<div class="px-3">
+						<form class="form">
+							<div class="form-body">
+								<div class="row">
+									<div class="col-xl-4 col-lg-6 col-md-12 mb-1">
+										<fieldset class="form-group">
+											<label for="basicInput">نام و نام خانوادگی</label>
+											<input type="text" class="form-control" id="basicInput" placeholder="نام را وارد کنید">
+										</fieldset>
+									</div>
+									<div class="col-xl-4 col-lg-6 col-md-12 mb-1">
+										<fieldset class="form-group">
+											<label for="helpInputTop">ایمیل</label>
+											<small class="text-muted"><i>fkazemi5236@gmail.com</i></small>
+											<input type="text" class="form-control" id="helpInputTop" placeholder="ایمیل را وارد کنید">
+										</fieldset>
+									</div>
+									<div class="controls" style="col-xl-4 col-lg-6 col-md-12 mb-1">
+										<label for="helpInputTop">نقش</label>
+                                            <select name="select" id="select" required="" class="form-control" aria-invalid="false">
+                                                <option value="">انتخاب گزینه</option>
+                                                <option value="1">تهران</option>
+                                                <option value="2">شیراز</option>
+                                                <option value="3">اهواز</option>
+                                                <option value="4">مشهد</option>
+                                                <option value="5">همدان</option>
+                                                <option value="6">تنکابن</option>
+                                            </select>
+                                        <div class="help-block"></div></div>
+									<div class="col-xl-4 col-lg-6 col-md-12 mb-1">
+										<fieldset class="form-group">
+											<label for="disabledInput">رمز عبور</label>
+											<input type="email" class="form-control" id="placeholderInput" placeholder="رمز عبور را وارد کنید">
+										</fieldset>
+									</div>
+									<div class="col-xl-4 col-lg-6 col-md-12 mb-1">
+										<fieldset class="form-group">
+											<label for="disabledInput">تکرار رمز عبور</label>
+											<input type="email" class="form-control" id="placeholderInput" placeholder="رمز عبور را تکرار کنید">
+										</fieldset>
+									</div>
+								</div>
+							</div>
+							<button type="button" class="btn btn-success"><i class="icon-note"></i> ذخیره</button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

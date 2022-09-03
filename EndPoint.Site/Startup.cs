@@ -1,6 +1,10 @@
+using DotNet5_Store_Application.Interfaces.Contexts;
+using DotNet5_Store_Application.Services.Users.Queries.GetUsers;
+using DotNet5_Store_Persistance.Contexts;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -23,6 +27,11 @@ namespace EndPoint.Site
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<IDatabaseContext, DatabaseContext>();
+            services.AddScoped<IGetUsersService, GetUsersService>();
+
+            string connectionString = @"Persist Security Info=False;User ID=sa;password=s@123456;Initial Catalog=Bugeto_StorDB;Data Source=ERP-TEAM-23\SQLSERVER2019";
+            services.AddEntityFrameworkSqlServer().AddDbContext<DatabaseContext>(option => option.UseSqlServer(connectionString));
             services.AddControllersWithViews();
         }
 

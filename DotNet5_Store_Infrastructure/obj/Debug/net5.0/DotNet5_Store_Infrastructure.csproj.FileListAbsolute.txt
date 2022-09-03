@@ -1,0 +1,12 @@
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Infrastructure\bin\Debug\net5.0\DotNet5_Store_Infrastructure.deps.json
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Infrastructure\bin\Debug\net5.0\DotNet5_Store_Infrastructure.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Infrastructure\bin\Debug\net5.0\ref\DotNet5_Store_Infrastructure.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Infrastructure\bin\Debug\net5.0\DotNet5_Store_Infrastructure.pdb
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Infrastructure\obj\Debug\net5.0\DotNet5_Store_Infrastructure.csproj.AssemblyReference.cache
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Infrastructure\obj\Debug\net5.0\DotNet5_Store_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Infrastructure\obj\Debug\net5.0\DotNet5_Store_Infrastructure.AssemblyInfoInputs.cache
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Infrastructure\obj\Debug\net5.0\DotNet5_Store_Infrastructure.AssemblyInfo.cs
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Infrastructure\obj\Debug\net5.0\DotNet5_Store_Infrastructure.csproj.CoreCompileInputs.cache
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Infrastructure\obj\Debug\net5.0\DotNet5_Store_Infrastructure.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Infrastructure\obj\Debug\net5.0\ref\DotNet5_Store_Infrastructure.dll
+D:\Test Projects\.Net 5\Bug\DotNet5_Store\DotNet5_Store_Infrastructure\obj\Debug\net5.0\DotNet5_Store_Infrastructure.pdb

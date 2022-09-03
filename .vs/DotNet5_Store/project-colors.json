@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "79f14ddf-7d8a-45bf-821f-7681e8dfe1d4": {
+      "ProjectGuid": "79f14ddf-7d8a-45bf-821f-7681e8dfe1d4",
+      "DisplayName": "DotNet5_Store.Domain",
+      "ColorIndex": 0
+    },
+    "69348ed2-26f7-4251-9ef9-d7f1be0a1316": {
+      "ProjectGuid": "69348ed2-26f7-4251-9ef9-d7f1be0a1316",
+      "DisplayName": "DotNet5_Store_Application",
+      "ColorIndex": 1
+    },
+    "ecebedc2-08e8-46ca-876d-1485f94c6254": {
+      "ProjectGuid": "ecebedc2-08e8-46ca-876d-1485f94c6254",
+      "DisplayName": "DotNet5_Store_Infrastructure",
+      "ColorIndex": 2
+    },
+    "73fb71e1-cb51-45cf-8751-8cfe1c7f347e": {
+      "ProjectGuid": "73fb71e1-cb51-45cf-8751-8cfe1c7f347e",
+      "DisplayName": "DotNet5_Store_Persistance",
+      "ColorIndex": 3
+    },
+    "a9e2bf39-ed61-4740-8317-b51b88a985c6": {
+      "ProjectGuid": "a9e2bf39-ed61-4740-8317-b51b88a985c6",
+      "DisplayName": "DotNet5_Store_Common",
+      "ColorIndex": 4
+    },
+    "7fcdf914-fbef-4f5d-a158-18f43d50b8cb": {
+      "ProjectGuid": "7fcdf914-fbef-4f5d-a158-18f43d50b8cb",
+      "DisplayName": "EndPoint.Site",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -20,6 +20,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet5_Store.Domain", "DotNet5_Store.Domain\DotNet5_Store.Domain.csproj", "{79F14DDF-7D8A-45BF-821F-7681E8DFE1D4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet5_Store_Application", "DotNet5_Store_Application\DotNet5_Store_Application.csproj", "{69348ED2-26F7-4251-9EF9-D7F1BE0A1316}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A9E2BF39-ED61-4740-8317-B51B88A985C6} = {A9E2BF39-ED61-4740-8317-B51B88A985C6}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet5_Store_Infrastructure", "DotNet5_Store_Infrastructure\DotNet5_Store_Infrastructure.csproj", "{ECEBEDC2-08E8-46CA-876D-1485F94C6254}"
 EndProject
