@@ -1,4 +1,5 @@
-﻿@{
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
     ViewData["Title"] = "ثبت نام کاربر جدید";
     Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
 }
@@ -37,14 +38,8 @@
 									</div>
 									<div class="controls" style="col-xl-4 col-lg-6 col-md-12 mb-1">
 										<label for="helpInputTop">نقش</label>
-                                            <select name="select" id="select" required="" class="form-control" aria-invalid="false">
-                                                <option value="">انتخاب گزینه</option>
-                                                <option value="1">تهران</option>
-                                                <option value="2">شیراز</option>
-                                                <option value="3">اهواز</option>
-                                                <option value="4">مشهد</option>
-                                                <option value="5">همدان</option>
-                                                <option value="6">تنکابن</option>
+                                            <select name="Role" id="Role" required="" class="form-control" aria-invalid="false" asp-items="@ViewBag.Roles">
+                                                
                                             </select>
                                         <div class="help-block"></div></div>
 									<div class="col-xl-4 col-lg-6 col-md-12 mb-1">

@@ -1,4 +1,5 @@
 using DotNet5_Store_Application.Interfaces.Contexts;
+using DotNet5_Store_Application.Services.Users.Queries.GetRoles;
 using DotNet5_Store_Application.Services.Users.Queries.GetUsers;
 using DotNet5_Store_Persistance.Contexts;
 using Microsoft.AspNetCore.Builder;
@@ -29,6 +30,7 @@ namespace EndPoint.Site
         {
             services.AddScoped<IDatabaseContext, DatabaseContext>();
             services.AddScoped<IGetUsersService, GetUsersService>();
+            services.AddScoped<IGetRolesService, GetRolesService>();
 
             string connectionString = @"Persist Security Info=False;User ID=sa;password=s@123456;Initial Catalog=Bugeto_StorDB;Data Source=ERP-TEAM-23\SQLSERVER2019";
             services.AddEntityFrameworkSqlServer().AddDbContext<DatabaseContext>(option => option.UseSqlServer(connectionString));
